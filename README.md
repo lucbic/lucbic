@@ -34,10 +34,3 @@
     <img src="https://img.shields.io/badge/advaita.dev-f0e6d8?style=for-the-badge&logoColor=1a1a1a" alt="Advaita Software" />
   </a>
 </p>
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucbic&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucbic&layout=compact&theme=default" alt="Top Languages" />
-</p>
