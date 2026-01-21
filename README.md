@@ -1,3 +1,5 @@
+![GitHub Banner](assets/gh-banner.png)
+
 ## Hi there 👋
 
 <!--
