@@ -18,29 +18,6 @@
   <img src="https://skillicons.dev/icons?i=nuxt,vue,tailwindcss,ts,prisma,nodejs,bun,figma" />
 </p>
 
-### Featured Projects
-
-<p align="center">
-  <a href="https://advaita.dev/portfolio/career-mobility-portal">
-    <img src="assets/career-mobility-portal.webp" alt="Career Mobility Portal" width="30%" />
-  </a>
-  <a href="https://advaita.dev/portfolio/ghana-dashboard">
-    <img src="assets/ghana-dashboard.webp" alt="Ghana Dashboard" width="30%" />
-  </a>
-  <a href="https://advaita.dev/portfolio/lushomo-website">
-    <img src="assets/lushomo-website.webp" alt="Lushomo Website" width="30%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://advaita.dev/portfolio/who-srhr-dashboard">
-    <img src="assets/who-srhr-dashboard.webp" alt="WHO SRHR Dashboard" width="30%" />
-  </a>
-  <a href="https://advaita.dev/portfolio/who-srhr-digital-handbook">
-    <img src="assets/who-srhr-digital-handbook.webp" alt="WHO SRHR Digital Handbook" width="30%" />
-  </a>
-</p>
-
 ### Connect with me
 
 <p align="center">
@@ -61,5 +38,6 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucbic" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucbic&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucbic&layout=compact&theme=default" alt="Top Languages" />
 </p>
