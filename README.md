@@ -1,4 +1,6 @@
-## <img src="assets/gh-banner.png" alt="GitHub Banner" style="border-radius: 10px;" />
+<div align="center">
+  <img src="assets/gh-banner.png" alt="GitHub Banner" width="100%" />
+</div>
 
 ### console.log("Hello world 👋");
 
@@ -20,45 +22,41 @@
 
 <p align="center">
   <a href="https://advaita.dev/portfolio/career-mobility-portal">
-    <img src="assets/career-mobility-portal.webp" alt="Career Mobility Portal" width="30%" style="border-radius: 10px; margin: 5px;" />
+    <img src="assets/career-mobility-portal.webp" alt="Career Mobility Portal" width="30%" />
   </a>
   <a href="https://advaita.dev/portfolio/ghana-dashboard">
-    <img src="assets/ghana-dashboard.webp" alt="Ghana Dashboard" width="30%" style="border-radius: 10px; margin: 5px;" />
+    <img src="assets/ghana-dashboard.webp" alt="Ghana Dashboard" width="30%" />
   </a>
   <a href="https://advaita.dev/portfolio/lushomo-website">
-    <img src="assets/lushomo-website.webp" alt="Lushomo Website" width="30%" style="border-radius: 10px; margin: 5px;" />
+    <img src="assets/lushomo-website.webp" alt="Lushomo Website" width="30%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://advaita.dev/portfolio/who-srhr-dashboard">
-    <img src="assets/who-srhr-dashboard.webp" alt="WHO SRHR Dashboard" width="30%" style="border-radius: 10px; margin: 5px;" />
+    <img src="assets/who-srhr-dashboard.webp" alt="WHO SRHR Dashboard" width="30%" />
   </a>
   <a href="https://advaita.dev/portfolio/who-srhr-digital-handbook">
-    <img src="assets/who-srhr-digital-handbook.webp" alt="WHO SRHR Digital Handbook" width="30%" style="border-radius: 10px; margin: 5px;" />
+    <img src="assets/who-srhr-digital-handbook.webp" alt="WHO SRHR Digital Handbook" width="30%" />
   </a>
 </p>
 
 ### Connect with me
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="mailto:lucas@advaita.dev" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 12px; height: 24px; background-color: #dc2626; color: white; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 5px; font-weight: 600;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/gmail.svg" height="20" width="20" style="filter: invert(1); margin-right: 8px;" />
-    Email
+<p align="center">
+  <a href="mailto:lucas@advaita.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/lucbic/" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 12px; height: 24px; background-color: #0077B5; color: white; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 5px; font-weight: 600;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" height="20" width="20" style="filter: invert(1); margin-right: 8px;" />
-    LinkedIn
+  <a href="https://linkedin.com/in/lucbic/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/lucasbic" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 12px; height: 24px; background-color: #6fda44; color: white; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 5px; font-weight: 600;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/upwork.svg" height="20" width="20" style="filter: invert(1); margin-right: 8px;" />
-    Upwork
+  <a href="https://www.upwork.com/freelancers/lucasbic">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <a href="https://advaita.dev" style="display: inline-flex; align-items: center; justify-content: center; padding: 10px 12px; height: 24px; background-color: #f0e6d8; color: #1a1a1a; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin: 5px; font-weight: 600; overflow: hidden;">
-    <img src="assets/advaita-logo-simple.svg" height="30" width="30" style="margin-right: 8px;" />
-    advaita.dev
+  <a href="https://advaita.dev">
+    <img src="https://img.shields.io/badge/advaita.dev-f0e6d8?style=for-the-badge&logoColor=1a1a1a" alt="Advaita Software" />
   </a>
-</div>
+</p>
 
 ### GitHub Stats
 
